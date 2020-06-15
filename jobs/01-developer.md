@@ -18,4 +18,4 @@ Rhubarb Group was founded in 2019 by [Till Krüss](https://till.im), is fully re
 - Unit Testing _(proficient)_
 - WordPress _(huge bonus)_
 
-If you think you're a great fit, hit
+If you think you're a great fit, tell us why at `till [at] wprediscache {dot} com`.
